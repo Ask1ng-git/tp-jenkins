@@ -1,0 +1,83 @@
+[lun. avr. 13 15:22:53 CEST 2026] Received Push event to branch main in repository Ask1ng-git/tp-jenkins UPDATED event from 140.82.115.159 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 15:22:48 CEST 2026
+[8mha:////4C3SZXKxnUWGDzbmKKxG4GpaRJa8zo7idLpsvOhlRu8WAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgPTcdqaUvQBQ+/bPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4LPmJGkJMUdgPgjSt3DZWUYixOMrNS0csXLmJfJPSUohAAAApx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLWHQyCgpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hUDAHrjP5ytAAAA[0mAsk1ng-git/tp-jenkins
+
+  Getting remote pull requests from branch main...
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4OHaKuotbiR0G8idbUnvj5Utu5oH5QzAgVB8/2W7b0CDAAAAsR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWEwyigpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hXrlxSlpurnJmbmAQBox7xytwAAAA==[0mmain
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (c25c48c1ef02fe58e7c40ed8ddcb55c08eb5b111 → 17db7f50b6c5e6f9570e9c57b06f79e9cc3a63e1)
+Scheduled build for branch: main
+
+  1 branches were processed
+
+Finished examining Ask1ng-git/tp-jenkins
+
+[lun. avr. 13 15:22:55 CEST 2026] Push event to branch main in repository Ask1ng-git/tp-jenkins UPDATED event from 140.82.115.159 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 15:22:48 CEST 2026 processed in 2 s
+[lun. avr. 13 15:24:18 CEST 2026] Received Push event to branch main in repository Ask1ng-git/tp-jenkins UPDATED event from 140.82.115.88 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 15:24:13 CEST 2026
+[8mha:////4CB86mBp1KA9g1p/s2tz35xZ+iY1DqJE57NlkqSPzg8jAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgPTcdua1XwBUBAzbjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4LPmJGkJMUdgPgjSt3DZWUYixOMrNS0csXLmJfJPSUohAAAApx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLWHQyCgpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hUDAHrjP5ytAAAA[0mAsk1ng-git/tp-jenkins
+
+  Getting remote pull requests from branch main...
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4OHaKuotbiR0G8idbUnvj5Utu5oH5QzAgVB8/2W7b0CDAAAAsR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWEwyigpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hXrlxSlpurnJmbmAQBox7xytwAAAA==[0mmain
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (17db7f50b6c5e6f9570e9c57b06f79e9cc3a63e1 → 4ce9679e91f93bc2efe89bbc70a4085dea1b63ed)
+Scheduled build for branch: main
+
+  1 branches were processed
+
+Finished examining Ask1ng-git/tp-jenkins
+
+[lun. avr. 13 15:24:20 CEST 2026] Push event to branch main in repository Ask1ng-git/tp-jenkins UPDATED event from 140.82.115.88 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 15:24:13 CEST 2026 processed in 1,7 s
+[lun. avr. 13 15:29:53 CEST 2026] Received Push event to branch feature/test-multibranch in repository Ask1ng-git/tp-jenkins CREATED event from 140.82.115.243 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 15:29:48 CEST 2026
+[8mha:////4C+HEAjdiZI8TbV9ovDwqU9e9hIAdO4pjWIqAbQWAv4fAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgPTcdo4zuwFS7dxNjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4LPmJGkJMUdgPgjSt3DZWUYixOMrNS0csXLmJfJPSUohAAAApx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLWHQyCgpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hUDAHrjP5ytAAAA[0mAsk1ng-git/tp-jenkins
+
+  Getting remote pull requests from branch feature/test-multibranch...
+
+  Checking branches...
+
+  Getting remote branch feature/test-multibranch...
+
+    Checking branch [8mha:////4Bd8YClIcrXBNomjY0yZsREziOQkdGjAPMM1iPMRwIIXAAAAvR+LCAAAAAAAAP9djEEOAUEQRcsIB7AScYVRsbEgFiIRErFxgkbp7plW0+muFq7hGmwcwnHcwYidv/k/L/nv8YZWDNA36RArHuwrjpWjwfLqKTjL5aYSGk3vz+nNvzLIVtB2xFrMGpopOIHOulBnhU6xxq0Ey3pyCdD7081//ZXBL40M4OLr0RVYGBEfx4jaikm7+nXCWSyHrPOaoPi8IC4tR5RAhEdSkgKhUJT8lJzYXVC8Nx8ezlv+ywAAAA==[0mfeature/test-multibranch
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: feature/test-multibranch
+
+  1 branches were processed
+
+Finished examining Ask1ng-git/tp-jenkins
+
+[lun. avr. 13 15:29:55 CEST 2026] Push event to branch feature/test-multibranch in repository Ask1ng-git/tp-jenkins CREATED event from 140.82.115.243 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 15:29:48 CEST 2026 processed in 1,7 s
+[lun. avr. 13 16:17:37 CEST 2026] Received Push event to branch main in repository Ask1ng-git/tp-jenkins UPDATED event from 140.82.115.24 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 16:17:32 CEST 2026
+[8mha:////4LobvMTf4wY0TWV6Q2dZRdYU+SdpBM+bo1/suLgXyNsvAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgPTcdpP6DACzj5+wjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4LPmJGkJMUdgPgjSt3DZWUYixOMrNS0csXLmJfJPSUohAAAApx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLWHQyCgpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hUDAHrjP5ytAAAA[0mAsk1ng-git/tp-jenkins
+
+  Getting remote pull requests from branch main...
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4OHaKuotbiR0G8idbUnvj5Utu5oH5QzAgVB8/2W7b0CDAAAAsR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWEwyigpKSi20tdPzyzJKE0C6srVdyzONsxL1wWK6JcU6Gal5mVn5hXrlxSlpurnJmbmAQBox7xytwAAAA==[0mmain
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (4ce9679e91f93bc2efe89bbc70a4085dea1b63ed → 4539de04b690cce04fabb5426305d84b8f083efb)
+Scheduled build for branch: main
+
+  1 branches were processed
+
+Finished examining Ask1ng-git/tp-jenkins
+
+[lun. avr. 13 16:17:39 CEST 2026] Push event to branch main in repository Ask1ng-git/tp-jenkins UPDATED event from 140.82.115.24 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ with timestamp lun. avr. 13 16:17:32 CEST 2026 processed in 1,8 s

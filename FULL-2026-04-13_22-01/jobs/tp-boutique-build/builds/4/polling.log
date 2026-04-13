@@ -1,0 +1,24 @@
+Started on 13 avr. 2026, 14:21:19
+Started by event from 140.82.115.146 ⇒ https://e58e-2a0d-e487-38f-7f97-f816-7c45-cdb7-624d.ngrok-free.app:9090/github-webhook/ on lun. avr. 13 14:21:19 CEST 2026
+Using strategy: Default
+[poll] Last Built Revision: Revision 175afa487085a54d04eae23b7c8452da296367c4 (refs/remotes/origin/main)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/Ask1ng-git/tp-jenkins.git # timeout=10
+Found 1 remote heads on https://github.com/Ask1ng-git/tp-jenkins.git
+[poll] Latest remote head revision on refs/heads/main is: c798ba6186d2bf5a5bad32f5391780042670d97e
+Using strategy: Default
+[poll] Last Built Revision: Revision 175afa487085a54d04eae23b7c8452da296367c4 (refs/remotes/origin/main)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/Ask1ng-git/tp-jenkins.git # timeout=10
+Found 1 remote heads on https://github.com/Ask1ng-git/tp-jenkins.git
+[poll] Latest remote head revision on refs/heads/main is: c798ba6186d2bf5a5bad32f5391780042670d97e
+Done. Took 1 s
+Changes found

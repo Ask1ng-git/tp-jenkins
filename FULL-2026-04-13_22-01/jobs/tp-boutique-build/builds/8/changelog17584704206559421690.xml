@@ -1,0 +1,10 @@
+commit 4ce9679e91f93bc2efe89bbc70a4085dea1b63ed
+tree f38fadd36c0a58e6b03b4b3a7cc1f2fbf46b0fae
+parent 17db7f50b6c5e6f9570e9c57b06f79e9cc3a63e1
+author Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 15:24:06 +0200
+committer Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 15:24:06 +0200
+
+    fix: restore tests
+
+
+:100644 100644 6fb910e4e587e45bced31aa2f52b7c983344abf7 20fb99c2204fec6ede793bafc5145f297eb8d45d M	src/test/java/fr/epsi/service/CommandeServiceTest.java

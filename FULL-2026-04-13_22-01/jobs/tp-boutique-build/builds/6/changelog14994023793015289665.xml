@@ -1,0 +1,21 @@
+commit c25c48c1ef02fe58e7c40ed8ddcb55c08eb5b111
+tree d8a08aa5b5baeb525044a4b3c15bcfe738b07744
+parent 2ffda1f928e5a3070168a09e530118b41f6ab37b
+author Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 14:57:34 +0200
+committer Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 14:57:34 +0200
+
+    fix: correction jenkinsfile email failure
+
+
+:100644 100644 64309846a26330dd5e19b5781e5397370caa566b 26fc58b98c57f1e022b0f514a98ee9293e2af06b M	Jenkinsfile
+commit 2ffda1f928e5a3070168a09e530118b41f6ab37b
+tree 20518a34317be4205ee1ca52622988ab4b2857af
+parent c798ba6186d2bf5a5bad32f5391780042670d97e
+author Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 14:54:26 +0200
+committer Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 14:54:26 +0200
+
+    test webhook
+
+
+:100644 100644 af52f5d4eadac25d732ab7929d80ef0868a4cf02 64309846a26330dd5e19b5781e5397370caa566b M	Jenkinsfile
+:100644 100644 5a6d29203c0b8dfd0ff8372882fc8f309a599359 82aca1353ea4a9ec52d95a878029ef9ab5641be7 M	README.md

@@ -1,0 +1,20 @@
+commit 17db7f50b6c5e6f9570e9c57b06f79e9cc3a63e1
+tree b18db61c26a9448414c2d85851034f89820be791
+parent 4dc5a1bdd957f0ec9493f178854351ffb3633998
+author Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 15:22:43 +0200
+committer Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 15:22:43 +0200
+
+    test: trigger email faillure
+
+
+:100644 100644 82aca1353ea4a9ec52d95a878029ef9ab5641be7 60422bef83cce9616db5eea6bc9be6c651a12428 M	README.md
+commit 4dc5a1bdd957f0ec9493f178854351ffb3633998
+tree 684d8ad4b5ad9afa9b9d3d88509a0d67fb3c3506
+parent c25c48c1ef02fe58e7c40ed8ddcb55c08eb5b111
+author Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 15:20:55 +0200
+committer Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 15:20:55 +0200
+
+    test: trigger email faillure
+
+
+:100644 100644 20fb99c2204fec6ede793bafc5145f297eb8d45d 6fb910e4e587e45bced31aa2f52b7c983344abf7 M	src/test/java/fr/epsi/service/CommandeServiceTest.java

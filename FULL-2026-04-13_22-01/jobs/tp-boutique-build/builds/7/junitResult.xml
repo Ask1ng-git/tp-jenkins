@@ -1,0 +1,125 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1403.vd9d1413fd205">
+  <suites>
+    <suite>
+      <file>/Users/dylan/.jenkins/workspace/tp-boutique-build/target/surefire-reports/TEST-fr.epsi.service.CommandeServiceTest.xml</file>
+      <name>fr.epsi.service.CommandeServiceTest</name>
+      <duration>0.042</duration>
+      <startTime>-1</startTime>
+      <properties/>
+      <time>0.042</time>
+      <nodeId>20</nodeId>
+      <enclosingBlocks>
+        <string>18</string>
+      </enclosingBlocks>
+      <enclosingBlockNames>
+        <string>Build + Tests + Coverage</string>
+      </enclosingBlockNames>
+      <cases>
+        <case>
+          <duration>0.013</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>calculerTotal_PanierNull_DeclencheException</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.001</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>calculerTotal_PanierVide_DeclencheException</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.002</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>categoriserCommande_Total40_RetournePetite</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>categoriserCommande_Total100_RetourneMoyenne</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>categoriserCommande_Total250_RetourneGrande</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>appliquerRemise_Total100_Remise10_Retourne90</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.004</duration>
+          <startTime>-1</startTime>
+          <className>fr.epsi.service.CommandeServiceTest</className>
+          <testName>calculerTotal_TroisStylos_RetourneSix</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <errorStackTrace>org.opentest4j.AssertionFailedError: expected: &lt;999.0&gt; but was: &lt;6.0&gt;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:86)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:81)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1014)
+	at fr.epsi.service.CommandeServiceTest.calculerTotal_TroisStylos_RetourneSix(CommandeServiceTest.java:30)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+</errorStackTrace>
+          <errorDetails>expected: &lt;999.0&gt; but was: &lt;6.0&gt;</errorDetails>
+          <properties/>
+          <flakyFailures/>
+          <rerunFailures/>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.042</duration>
+  <skipOldReports>false</skipOldReports>
+  <startTime>-1</startTime>
+  <stdioRetention>NONE</stdioRetention>
+  <keepTestNames>false</keepTestNames>
+  <keepProperties>false</keepProperties>
+</result>

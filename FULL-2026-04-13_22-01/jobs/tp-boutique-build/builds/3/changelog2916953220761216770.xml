@@ -1,0 +1,10 @@
+commit 175afa487085a54d04eae23b7c8452da296367c4
+tree dd79a0cdd7735d67f640880ebc5d17894a5f35fe
+parent 1f5fe44b75febd2a601902c481ba28b1c546d8d0
+author Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 14:15:41 +0200
+committer Ask1ng-git <dydoudubg@gmail.com> 2026-04-13 14:15:41 +0200
+
+    fix: ajout plugins qualite maven
+
+
+:100644 100644 8ab95e6c56a12052e0aa33c3f1e4b4674750c9dd 50bc62b9d8821faad34b4d31c02a5cb1bb16b8e2 M	pom.xml

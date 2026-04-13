@@ -6,3 +6,4 @@ test webhook
 test webhook
 test webhook
 test email failuretest multibranch
+test multipipeline

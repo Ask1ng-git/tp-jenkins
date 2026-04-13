@@ -30,6 +30,15 @@ pipeline {
                     archiveArtifacts artifacts: 'target/checkstyle-result.xml, target/pmd.xml, target/cpd.xml, target/spotbugsXml.xml', allowEmptyArchive: true
                 }
             }
+            post {
+                failure {
+                    emailext (
+                        subject: "Build FAILED",
+                        body: "Le build a échoué",
+                        to: "dydoudubg@gmail.com"
+                    )
+                }
+            }
         }
     }
 }

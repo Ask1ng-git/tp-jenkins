@@ -30,15 +30,21 @@ pipeline {
                     archiveArtifacts artifacts: 'target/checkstyle-result.xml, target/pmd.xml, target/cpd.xml, target/spotbugsXml.xml', allowEmptyArchive: true
                 }
             }
-            post {
-                failure {
-                    emailext (
-                        subject: "Build FAILED",
-                        body: "Le build a échoué",
-                        to: "dydoudubg@gmail.com"
-                    )
-                }
-            }
+        }
+    }
+
+    post {
+        failure {
+            emailext(
+                subject: "Build FAILED - ${env.JOB_NAME} #${env.BUILD_NUMBER}",
+                body: """Le build a échoué.
+
+Projet : ${env.JOB_NAME}
+Build : #${env.BUILD_NUMBER}
+URL : ${env.BUILD_URL}
+""",
+                to: "dydoudubg@gmail.com"
+            )
         }
     }
 }
